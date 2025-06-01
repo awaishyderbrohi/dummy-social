@@ -66,11 +66,9 @@ dummy-social is a full-stack mock social media platform built with **Spring Boot
 ### 🔧 Backend Setup (Spring Boot)
 
 1. **Create PostgreSQL Database**
-
-``sql
 CREATE DATABASE dummy_social;
 
-```sql
+```yml
 ## Configure application.properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/dummy_social
 spring.datasource.username=your_db_user
