@@ -1,4 +1,4 @@
-# 📱 dummy-social
+# 📱 dummy-social Open Source
 
 dummy-social is a full-stack mock social media platform built with **Spring Boot** . It offers basic social media functionalities including authentication, posting, liking, and commenting.
 **Still underDevelopment**
